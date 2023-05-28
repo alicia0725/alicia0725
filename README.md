@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Here are some ideas to get you started: Please visit my website
+### Here are some ideas to get you started: Please visit my website
 ## 🔭 I’m currently studying in NCU
-# 🌱 I’m currently learning at MIS 
+## 🌱 I‘m studying in the Department of MIS
 * 💬 birthday : 2003 07 25
 * 👯 gender : female 
 * 🤔 hobby : photography
@@ -11,8 +11,9 @@
 ###### Advantage :  
 ###### Disadvantage : 
 
-**Focus on yourself**
-__become who you **really** want to do__
+> Focus on yourself
+>> find your intresting
+
 
 
 ## Images
@@ -23,11 +24,6 @@ __become who you **really** want to do__
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 ## Tables
 
