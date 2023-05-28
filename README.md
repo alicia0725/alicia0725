@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-<!--
-**alicia0725/alicia0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Markdown syntax guide
-
+Here are some ideas to get you started: Please visit my website
 ## Headers
-
+🔭 I’m currently studying in NCU
 # This is a Heading h1
+🌱 I’m currently learning 
 ## This is a Heading h2 
 ###### This is a Heading h6
 
@@ -80,4 +67,22 @@ alert(message);
 
 ## Inline code
 
-This web site is using `markedjs/marked`.
+
+
+
+
+
+
+
+👯 gender : male
+
+🤔 hobby : playing basketball
+
+💬 birthday : 2002 04 20
+
+📫 Expertise : coding
+
+😄 Advantage : nice to live together
+
+⚡ Disadvantage : slow to warm up
+Popular repositories
